@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@tailwind{
+    --font-kanit: "Kanit" ;
+    --font-itim: "Itim" ;
+    --font-charm: "Charm" ;
+}
